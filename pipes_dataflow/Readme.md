@@ -1,6 +1,6 @@
 # Compiling the OpenCL Kernel
 
-The top-level OpenCL kernel file is device/hello_world.cl.
+The top-level OpenCL kernels file is device/network.cl.
 
 To compile the OpenCL kernel, run:
 
